@@ -1,7 +1,7 @@
 {
-    "version": "1.2.1",
-    "url": "https://raw.githubusercontent.com/nstreamAI/DTR_OTA_Updates/main/releases/download/v1.2.1/firmware.bin",
-    "sha256": "b0e600e19ecc191740d0578527bd99cbf358a0bca5dcfd57b49b8e0d44e2c93e",
+    "version": "1.2.2",
+    "url": "https://raw.githubusercontent.com/nstreamAI/DTR_OTA_Updates/main/releases/download/v1.2.2/firmware.bin",
+    "sha256": "b2fd5f80103b6cdc89cb90d637880b6f560ebbc8ef301a82f317b5b4df17a6dd",
     "min_version": "1.0.0",
-    "notes": "Release v1.2.1"
+    "notes": "Release v1.2.2"
 }
